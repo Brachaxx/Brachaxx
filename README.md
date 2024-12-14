@@ -29,8 +29,7 @@ _Programuj w CS!_
 -->
 
 ## 1 do 10
-Zainstaluj Visual Studio lub inny edytor, który obsługuje C# (np. Visual Studio Code z odpowiednimi rozszerzeniami).
-Utwórz nowy projekt konsolowy w C#.
+Ten program pozwala wyświetlić liczby od 1 do 10: https://github.com/Brachaxx/Brachaxx/blob/main/1-10
 
 ## tabliczka mnożenia
 Utwórz nową aplikację konsolową w C#.
