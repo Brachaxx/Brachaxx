@@ -32,13 +32,13 @@ _Programuj w CS!_
 Ten program pozwala wyświetlić liczby od 1 do 10.
 
 ## tabliczka mnożenia
-
+Program ten wyświetla tabliczkę mnożenia dla liczby podanej przez użytkownika.
 
 ## ℃ na ℉
 Program wczytuje temperaturę w stopniach Celsjusza i przelicza ją na Fahrenheita.
 
 ## wyświetlanie
-
+Ten program pozwala wyświetlić dowolny tekst na ekranie.
 
 ## kalkulator
 Ten program to bardziej rozbudowany kalkulator, który obsługuje podstawowe operacje matematyczne, sprawdza błędy (np. dzielenie przez zero) i pozwala na wielokrotne wykonywanie obliczeń.
