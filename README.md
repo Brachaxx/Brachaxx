@@ -29,26 +29,17 @@ _Programuj w CS!_
 -->
 
 ## 1 do 10
-Ten program pozwala wyświetlić liczby od 1 do 10: https://github.com/Brachaxx/Brachaxx/blob/main/1-10
+Ten program pozwala wyświetlić liczby od 1 do 10.
 
 ## tabliczka mnożenia
-Utwórz nową aplikację konsolową w C#.
-W głównym pliku (np. Program.cs) zacznij pisać kod.
+
 
 ## ℃ na ℉
-Będziesz musiał poprosić użytkownika o podanie dwóch liczb oraz wybranie operacji matematycznej.
+Program wczytuje temperaturę w stopniach Celsjusza i przelicza ją na Fahrenheita.
 
 ## wyświetlanie
-Wczytanie liczb: Program wczytuje dwie liczby od użytkownika za pomocą Console.ReadLine() i konwertuje je na typ double za pomocą Convert.ToDouble().
-Wybór operacji: Użytkownik wybiera operację matematyczną, która będzie wykonana na tych liczbach. Używamy switch do obsługi różnych operacji.
-Operacje matematyczne: Program obsługuje podstawowe operacje: dodawanie, odejmowanie, mnożenie i dzielenie. Jeśli użytkownik wybierze dzielenie przez zero, program wyświetli odpowiedni komunikat o błędzie.
-Wynik: Na końcu program wyświetli wynik obliczeń.
 
-## Step 5: Testowanie programu
-Po zapisaniu programu, uruchom go, aby sprawdzić, czy wszystko działa poprawnie. Sprawdź różne kombinacje liczb oraz operacji.
 
-## Step 6: Dodatkowe funkcjonalności (opcjonalnie)
-Możesz rozbudować kalkulator o więcej funkcji, np. obliczenia z pierwiastkami, potęgowanie, obliczenia procentowe.
-Możesz dodać obsługę wyjątków, aby program nie zawiesił się w przypadku nieprawidłowych danych wejściowych.
-Gotowy program będzie prostym kalkulatorem, który wykonuje podstawowe operacje matematyczne na dwóch liczbach.
+## kalkulator
+Ten program to bardziej rozbudowany kalkulator, który obsługuje podstawowe operacje matematyczne, sprawdza błędy (np. dzielenie przez zero) i pozwala na wielokrotne wykonywanie obliczeń.
 
