@@ -1,0 +1,15 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Podaj swój rok urodzenia: ");
+        int yearOfBirth = Convert.ToInt32(Console.ReadLine());
+        
+        int currentYear = DateTime.Now.Year;
+        int age = currentYear - yearOfBirth;
+        
+        Console.WriteLine("Masz " + age + " lat.");
+    }
+}
