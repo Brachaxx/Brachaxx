@@ -52,4 +52,7 @@ Program ten wczytuje długości boków prostokąta i oblicza jego pole.
 ## parzysta\nieparzysta
 Program ten wczytuje liczbę i sprawdza, czy jest ona parzysta, czy nieparzysta.
 
+## wiek
+Program ten oblicza, ile lat ma użytkownik, na podstawie podanego roku urodzenia.
+
 
