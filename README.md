@@ -43,3 +43,7 @@ Ten program pozwala wyświetlić dowolny tekst na ekranie.
 ## kalkulator
 Ten program to bardziej rozbudowany kalkulator, który obsługuje podstawowe operacje matematyczne, sprawdza błędy (np. dzielenie przez zero) i pozwala na wielokrotne wykonywanie obliczeń.
 
+## √
+Program ten wczytuje liczbę i oblicza jej pierwiastek kwadratowy.
+
+
