@@ -55,4 +55,7 @@ Program ten wczytuje liczbę i sprawdza, czy jest ona parzysta, czy nieparzysta.
 ## wiek
 Program ten oblicza, ile lat ma użytkownik, na podstawie podanego roku urodzenia.
 
+## ++
+Ten program pozwala użytkownikowi wprowadzić dwie liczby i oblicza ich sumę.
+
 
