@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Programowanie w CS
+# Uczę się programować
 
-_Programuj w CS!_
+_CS, java_
 
 </header>
 
@@ -28,34 +28,5 @@ _Programuj w CS!_
   Encourage users to open new tabs for steps!
 -->
 
-## 1 do 10
-Ten program pozwala wyświetlić liczby od 1 do 10.
-
-## tabliczka mnożenia
-Program ten wyświetla tabliczkę mnożenia dla liczby podanej przez użytkownika.
-
-## ℃ na ℉
-Program wczytuje temperaturę w stopniach Celsjusza i przelicza ją na Fahrenheita.
-
-## wyświetlanie
-Ten program pozwala wyświetlić dowolny tekst na ekranie.
-
-## kalkulator
-Ten program to bardziej rozbudowany kalkulator, który obsługuje podstawowe operacje matematyczne, sprawdza błędy (np. dzielenie przez zero) i pozwala na wielokrotne wykonywanie obliczeń.
-
-## √ - pierwiastek kwadratowy
-Program ten wczytuje liczbę i oblicza jej pierwiastek kwadratowy.
-
-## Obliczanie pola prostokąta
-Program ten wczytuje długości boków prostokąta i oblicza jego pole.
-
-## parzysta\nieparzysta
-Program ten wczytuje liczbę i sprawdza, czy jest ona parzysta, czy nieparzysta.
-
-## wiek
-Program ten oblicza, ile lat ma użytkownik, na podstawie podanego roku urodzenia.
-
-## ++
-Ten program pozwala użytkownikowi wprowadzić dwie liczby i oblicza ich sumę.
 
 
