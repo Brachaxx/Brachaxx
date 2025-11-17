@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   Add your open source license, GitHub uses MIT license.
 -->
 
-#### Uczę się #nienawidze ####programować
+# Uczę się programować
 
 _CS, java_,_julia
 
